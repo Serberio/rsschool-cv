@@ -1,1 +1,1 @@
-# rsschool-cv
+https://serberio.github.io/rsschool-cv/
