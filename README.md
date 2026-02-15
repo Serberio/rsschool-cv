@@ -1,1 +1,2 @@
-https://Serberio.github.io/rsschool-cv/cv
+# rsschool-cv
+My CV for RS School
